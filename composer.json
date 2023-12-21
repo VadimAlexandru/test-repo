@@ -1,5 +1,5 @@
 {
-    "name": "vadim/test-repo",
+    "name": "wtg-package/test-repo",
     "description": "Test",
     "type": "library",
     "require": {}
