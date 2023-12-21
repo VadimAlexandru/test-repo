@@ -1,0 +1,6 @@
+{
+    "name": "vadim/test-repo",
+    "description": "Test",
+    "type": "library",
+    "require": {}
+}
